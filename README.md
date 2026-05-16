@@ -11,7 +11,7 @@ A SQL analysis of the Olist Brazilian E-commerce public dataset (~100k orders, 9
 
 ## Business Questions
 
-Each `.sql` file in `/queries` contains the question, the query, and the findings.
+Each `.sql` file  contains the question, the query, and the findings.
 
 | # | Question | Key finding |
 |---|---|---|
