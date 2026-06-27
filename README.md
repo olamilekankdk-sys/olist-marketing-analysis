@@ -38,6 +38,6 @@ Each `.sql` file  contains the question, the query, and the findings.
 
 ## Author
 
-Olamilekan Kadiku — junior data and marketing analyst.
+Olamilekan Kadiku — Marketing & Data Analyst.
 Portfolio: [leksxibk.netlify.app](https://leksxibk.netlify.app)
-LinkedIn: [linkedin.com/in/olamilekankadiku](https://www.linkedin.com/in/olamilekankadiku)
+LinkedIn: [linkedin.com/in/lekankadiku](https://www.linkedin.com/in/lekankadiku)
