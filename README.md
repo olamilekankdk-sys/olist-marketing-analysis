@@ -2,8 +2,15 @@
 
 A SQL analysis of the Olist Brazilian E-commerce public dataset (~100k orders, 9 tables), exploring sales performance, customer behaviour, and operational quality through six business questions.
 
-**Tools:** SQLite, DBeaver
+**Tools:** SQLite, DBeaver, Looker Studio
 **Skills demonstrated:** Multi-table joins, aggregation, subqueries, CASE statements, HAVING filters, date arithmetic, business interpretation of results.
+
+## 📊 Interactive Dashboard
+
+The findings below are visualised in a live **Looker Studio** report:
+
+- **View embedded (GitHub Pages):** https://olamilekankdk-sys.github.io/olist-marketing-analysis/dashboard/
+- **Open directly in Looker Studio:** [View report](https://lookerstudio.google.com/reporting/99a23161-08fe-49eb-8981-d09050026641)
 
 ## Dataset
 
