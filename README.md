@@ -39,5 +39,5 @@ Each `.sql` file  contains the question, the query, and the findings.
 ## Author
 
 Olamilekan Kadiku — Marketing & Data Analyst.
-Portfolio: [leksxibk.netlify.app](https://leksxibk.netlify.app)
 LinkedIn: [linkedin.com/in/lekankadiku](https://www.linkedin.com/in/lekankadiku)
+GitHub: [github.com/olamilekankdk-sys](https://github.com/olamilekankdk-sys)
